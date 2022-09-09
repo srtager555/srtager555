@@ -3,9 +3,11 @@
 <p align="left">I'm experimented front-end developer, learning UX-UI and coming soon AI. I'm developing code to early 2019</p>
 
 
+<p>Here is my portfolio take a look ===> <a href="https://ttager.page" target="_blank">here, its here</a></p>
+
 - 🔭 I’m currently working on <a href="https://github.com/srtager555/wrapping-letters" target="_blank">Wrapping letters</a> and <a href="https://github.com/srtager555/Rynyk">Rynyk</a>
 - 🌱 I’m currently learning English
-- 📫 How to reach me @srtager555 in internet.
+- 📫 How to reach me on LinkedIn or twitter.
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -44,8 +46,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://linkedin/in/srtager555/" target="_blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+   <a href="https://twitter.com/srtager555/" target="_blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+   </a>
 </div>
 
 ###
