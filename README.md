@@ -3,7 +3,7 @@
 <p align="left">I'm experimented front-end developer, learning UX-UI and coming soon AI. I'm developing code to early 2019</p>
 
 
-<p>Here is my portfolio take a look ===> <a href="https://ttager.page" target="_blank">here, its here</a></p>
+<h2>Here is my portfolio take a look <a href="https://ttager.page" target="_blank">here, its here</a></h2>
 
 - 🔭 I’m currently working on <a href="https://github.com/srtager555/wrapping-letters" target="_blank">Wrapping letters</a> and <a href="https://github.com/srtager555/Rynyk">Rynyk</a>
 - 🌱 I’m currently learning English
