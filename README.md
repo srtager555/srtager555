@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 <p align="left">I'm experimented front-end developer, learning UX-UI and coming soon AI. I'm developing code to early 2019</p>
 
 
-<h2>Here is my portfolio take a look <a href="https://ttager.page" target="_blank">here, its here</a></h2>
+<p>Here is my portfolio take a look: <a href="https://ttager.page" target="_blank">Ttager.page</a></p>
 
 - 🔭 I’m currently working on <a href="https://github.com/srtager555/wrapping-letters" target="_blank">Wrapping letters</a> and <a href="https://github.com/srtager555/Rynyk">Rynyk</a>
 - 🌱 I’m currently learning English
