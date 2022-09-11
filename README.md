@@ -1,21 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<p align="left">I'm experimented front-end developer, learning UX-UI and coming soon AI. I'm developing code to early 2019</p>
+I'm experimented front-end developer, learning UX-UI and coming soon AI. I'm developing code to early 2019
 
-
-<p>Here is my portfolio take a look: <a href="https://ttager.page" target="_blank">Ttager.page</a></p>
+I dedicate myself to working on the front-end of the web with JS and its frameworks/libraries, I have several projects underway, I hope you are interested in what you found here.
 
 - 🔭 I’m currently working on <a href="https://github.com/srtager555/wrapping-letters" target="_blank">Wrapping letters</a> and <a href="https://github.com/srtager555/Rynyk">Rynyk</a>
 - 🌱 I’m currently learning English
 - 📫 How to reach me on LinkedIn or twitter.
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *Here is my portfolio take a look => <a href="https://ttager.page" target="_blank">ttager.page</a>*
 
 ###
 
@@ -54,4 +47,8 @@
    </a>
 </div>
 
-###
+<br/>
+<br/>
+<br/>
+
+# 🖼 *Take a look my pinned projects.* 📌 
