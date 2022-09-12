@@ -4,11 +4,11 @@ I'm experimented front-end developer, learning UX-UI and coming soon AI. I'm dev
 
 I dedicate myself to working on the front-end of the web with JS and its frameworks/libraries, I have several projects underway, I hope you are interested in what you found here.
 
-- 🔭 I’m currently working on <a href="https://github.com/srtager555/wrapping-letters" target="_blank">Wrapping letters</a> and <a href="https://github.com/srtager555/Rynyk">Rynyk</a>
+- 🔭 I’m currently working on <a target="_blank" href="https://github.com/srtager555/wrapping-letters">Wrapping letters</a> and <a target="_blank" href="https://github.com/srtager555/Rynyk">Rynyk</a>
 - 🌱 I’m currently learning English
 - 📫 How to reach me on LinkedIn or twitter.
 
-## *Here is my portfolio take a look => <a href="https://ttager.page" target="_blank">ttager.page</a>*
+## *Here is my portfolio take a look => <a target="_blank" href="https://ttager.page">ttager.page</a>*
 
 ###
 
@@ -39,10 +39,10 @@ I dedicate myself to working on the front-end of the web with JS and its framewo
 ###
 
 <div align="left">
-  <a href="https://linkedin/in/srtager555/" target="_blank">
+  <a target="_blank" href="https://linkedin.com/in/srtager555/">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-   <a href="https://twitter.com/srtager555/" target="_blank">
+   <a target="_blank" href="https://twitter.com/srtager555/">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
    </a>
 </div>
