@@ -1,5 +1,5 @@
 <h1 align="center">🔥🔥🔥 SRTAGER555 🔥🔥🔥</h1>
-<p align="center" >Developing code since early 2019 <img src="https://media1.tenor.com/m/0IRNivMANQ4AAAAd/hu-tao-hu-tao-biting-plate.gif" width="20px" heigth="20px" /></p>
+<p align="center" >Developing code since early 2018 <img src="https://media1.tenor.com/m/0IRNivMANQ4AAAAd/hu-tao-hu-tao-biting-plate.gif" width="20px" heigth="20px" /></p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&username=srtager555" height="150" alt="stats graph"  />
   <img src="https://media1.tenor.com/m/mmoN4X_NeC4AAAAd/cool-cool-bro.gif" alt="tao ball" width="100px" heigth="100px" />
